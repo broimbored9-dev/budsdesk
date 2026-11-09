@@ -1,0 +1,16 @@
+[
+  {
+    "Path": "C:\\Users\\smart\\Desktop\\BudsDesk.exe - Shortcut.lnk",
+    "TargetPath": "C:\\Users\\smart\\Documents\\Codex\\2026-10-12\\c\\outputs\\BudsDesk\\BudsDesk.exe",
+    "Arguments": "--spatial",
+    "WorkingDirectory": "C:\\Users\\smart\\Documents\\Codex\\2026-10-12\\c\\outputs\\BudsDesk",
+    "IconLocation": "C:\\Users\\smart\\Documents\\Codex\\2026-09-11\\im\\outputs\\BudsDesk\\BudsDesk.exe,0"
+  },
+  {
+    "Path": "C:\\Users\\smart\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\BudsDesk Auto EQ.lnk",
+    "TargetPath": "C:\\Users\\smart\\Documents\\Codex\\2026-10-12\\c\\outputs\\BudsDesk\\BudsDesk.exe",
+    "Arguments": "--background",
+    "WorkingDirectory": "C:\\Users\\smart\\Documents\\Codex\\2026-10-12\\c\\outputs\\BudsDesk",
+    "IconLocation": ",0"
+  }
+]

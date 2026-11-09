@@ -1,0 +1,40 @@
+PASS: Rust RFCOMM worker connected to actual CMF Buds 2 Plus
+OK Confirmed
+OK Confirmed
+PASS: Off was confirmed by buds, then background lock restored Medium ANC
+OK Confirmed
+PASS: Transparency was confirmed by buds, then background lock restored Medium ANC
+OK Confirmed
+OK Confirmed
+PASS: Disabling lock leaves ANC Off across subsequent polling ticks
+PASS: Invalid ANC mode rejected at Bluetooth command boundary
+OK Confirmed
+PASS: Manual Pop EQ survives background polling
+OK Confirmed
+OK Confirmed
+OK Confirmed
+Original preferences, ANC and EQ restored.
+OK Confirmed
+
+PASS: Release accepts a formatted multiline JSON request file
+OK Confirmed
+PASS: Profile setting 16452 matches the original buds response
+PASS: Recovery copy contains setting 16452
+PASS: Profile setting 16414 matches the original buds response
+PASS: Recovery copy contains setting 16414
+PASS: Profile setting 16398 matches the original buds response
+PASS: Recovery copy contains setting 16398
+PASS: Profile setting 16462 matches the original buds response
+PASS: Recovery copy contains setting 16462
+PASS: Profile setting 16464 matches the original buds response
+PASS: Recovery copy contains setting 16464
+PASS: Profile setting 16463 matches the original buds response
+PASS: Recovery copy contains setting 16463
+PASS: Incomplete profile rejected before changing the buds
+OK Confirmed
+PASS: Full refresh confirms the connected buds
+OK Confirmed
+PASS: Release reconnects and reads settings again
+OK Confirmed
+OK Confirmed
+Original sound settings and profile recovery file restored.

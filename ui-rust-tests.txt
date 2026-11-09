@@ -1,0 +1,30 @@
+   Compiling budsdesk v2.1.0 (C:\Users\smart\Documents\Codex\2026-10-15\m\outputs\BudsDesk\source)
+    Finished `test` profile [unoptimized + debuginfo] target(s) in 13.21s
+     Running unittests src\main.rs (C:\Users\smart\Documents\Codex\2026-10-15\m\work\cargo-target\debug\deps\BudsDesk-ef815a78c62431e9.exe)
+
+running 22 tests
+test backend::tests::operation_ids_cover_the_full_nonzero_cycle ... ok
+test backend::tests::confirmations_require_every_relevant_reported_byte ... ok
+test backend::tests::reconnect_clears_readings_and_keeps_preferences ... ok
+test backend::tests::invalid_query_is_rejected_before_socket_write ... ok
+test spatial::tests::preserves_configuration_and_profiles ... ok
+test spatial::tests::verified_spatial_boundaries_match_ieee_comparisons ... ok
+test tray::tests::verified_menu_and_native_open_messages_reach_the_ui_channel ... ok
+test ui::tests::command_lifecycle_waits_for_authoritative_snapshot_and_preserves_queue ... ok
+test backend::tests::ring_deadline_is_serviced_while_a_query_waits ... ok
+test ui::tests::complete_draft_projection_preserves_edits_and_drops_stale_values ... ok
+test ui::tests::failed_command_restores_confirmed_controls ... ok
+test ui::tests::motion_cancel_and_tray_open_execute_the_verified_policies ... ok
+test ui::tests::pending_policy_preserves_count_and_blocks_unconfirmed_controls ... ok
+test ui::tests::profile_and_eq_compatibility ... ok
+test ui::tests::verified_ui_payloads_keep_control_ids_and_eq_band_order ... ok
+test verified::tests::pipe_and_registry_boundaries ... ok
+test platform::tests::pipe_handles_crlf_large_replies_and_stalled_clients ... ok
+test spatial::tests::heartbeat_survives_without_window_repaints_and_stops_on_close ... ok
+test protocol::verified_wire_tests::verified_wire_boundaries ... ok
+test protocol::tests::protocol_and_anc_lock ... ok
+test protocol::tests::verified_validation_boundaries ... ok
+test backend::tests::query_timeout_drops_stale_reported_value ... ok
+
+test result: ok. 22 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 4.03s
+

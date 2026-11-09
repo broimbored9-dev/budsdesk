@@ -1,0 +1,16 @@
+Plugin.cpp
+   Creating library Plugin.lib and object Plugin.exp
+NativeTests.cpp
+Bass rhythm 40: 40 BPM
+Bass rhythm 80: 79.9966 BPM
+Bass rhythm 120: 120 BPM
+Bass rhythm 180: 179.913 BPM
+Bass rhythm 220: 219.958 BPM
+Rhythm fixture 0: 122.986 BPM
+Rhythm fixture 1: 122.981 BPM
+Rhythm fixture 2: 122.925 BPM
+Beat alignment error: 3.01202 degrees
+PASS: sample-exact bypass; 32/44.1/48/96/192 kHz; variable buffers; every preset; finite bounded output; stereo/anti-phase; measured HRTF direction/elevation; corrupt data; VST loading.
+PASS: continuous forward/reverse elevation and distance at orbit seams; shortest manual azimuth arc.
+PASS: exactly 1,000 Hz motion at every sample rate; real 40/80/120/180/220 BPM attacks including anti-phase bass; continuous motion through silence; no sustained-note false tempo.
+48 kHz stress render: 1.756 seconds of audio in 0.0904649 seconds (5.15176% of one real-time CPU core).

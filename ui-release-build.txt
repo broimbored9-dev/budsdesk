@@ -1,0 +1,2 @@
+   Compiling budsdesk v2.1.0 (C:\Users\smart\Documents\Codex\2026-10-15\m\outputs\BudsDesk\source)
+    Finished `release` profile [optimized] target(s) in 1m 25s
