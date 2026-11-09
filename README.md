@@ -12,7 +12,7 @@ Edit proof sources under source/verification, run source/verify.ps1 -Regenerate,
 
 ## Use
 
-Launch BudsDesk.exe --spatial with BudsDeskSpatial.dll and BudsDeskApoSetup.exe beside it. Minimize to tray and choose Open BudsDesk to restore the window; ordinary second launches restore the existing instance, while --spatial selects 3D motion.
+Launch BudsDesk.exe --spatial with BudsDeskSpatial.dll and BudsDeskApoSetup.exe beside it. Minimize to tray and choose Open BudsDesk to restore the window; ordinary second launches restore the existing instance, while --spatial selects 3D motion.or just double click exe
 
 Controls retain ANC/lock, EQ, bass, gestures, connection options, profiles, batteries, audio diagnostics and spatial motion. Setup/Repair uses Equalizer APO and its existing administrator prompt. Preferences use HKCU/Software/BudsDesk and the usual per-user BudsDesk directory. --smoke <folder> renders offline sample views without changing motion preferences; --snapshot reads the worker state.
 
